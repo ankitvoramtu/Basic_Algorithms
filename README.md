@@ -8,3 +8,5 @@ The goal of this repository is basically to share some simple algorthims.
 **condensed_time_ranges.py:** Let's say you need a tool to find available hours for everyone in your organization. This script returns a list of condensed ranges for given a list of meeting time ranges of people in the organization. 
 
 **MeanAveragePrecision.py:** This computes the average precision at different k values. To compute the mean average precision at k, it can be utilized.
+
+**Technical Interview Practice:** Some technical interview questions and solutions coded in Python.
